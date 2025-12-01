@@ -14,3 +14,4 @@ There are 2 deep learning projects:
 
    Tools: Hugging Face
 
+p.s. This is a note of the assignments from the NYCU deep learning course
