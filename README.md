@@ -12,5 +12,5 @@ There are 2 deep learning projects:
 
    Goal: implement a conditional Denoising Diffusion Probabilistic Model (DDPM) to generate images according to multi-label conditions
 
-   Tools: huggging face
+   Tools: Hugging Face
 
